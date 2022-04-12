@@ -17,29 +17,29 @@
     <td width=20%>Навыки и инструмены</td>
   </tr>
         <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/16-steel_temperature">Steel temperature</a></td>
-    <td>In order to optimize production costs, the steelworks of So Hardening Steel Ltd. decided to reduce the electricity consumption during the steel processing phase. You will have to build a model that predicts the temperature of the steel.</td>
-    <td>Python, Pandas, Matplotlib, Seaborn, exploratory data analysis, data visualization, data preprocessing, math, machine learning, gradient boosting, numpy</td>
+    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/16-steel_temperature">Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости</a></td>
+    <td>На основе данных сервиса Яндекс.Недвижимость определена рыночная стоимость объектов недвижимости разного типа, типичные параметры квартир, в зависимости от удаленности от центра. Проведена предобработка данных. Добавлены новые данные. Построены гистограммы, боксплоты, диаграммы рассеивания.</td>
+    <td>Python Pandas Matplotlib Исследовательский анализ данных Визуализация данных Предобработка данных</td>
   </tr>
       <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/15-age_recognition_by_photo">Age recognition by photo</a></td>
-    <td>Build a machine learning model that determines the approximate age of a person from a photo. There is a set of photos of people with an indication of their age.</td>
-    <td>Pandas, keras, Matplotlib, Seaborn, Computer Vision, Machine Learning</td>
+    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/15-age_recognition_by_photo">Определение выгодного тарифа для телеком компании</a></td>
+    <td>Проведен предварительный анализ использования тарифов на выборке клиентов, проанализировано поведение клиентов при использовании услуг оператора и рекомендованы оптимальные наборы услуг для пользователей. Проведена предобработка данных, их анализ. Проверены гипотезы о различии выручки абонентов разных тарифов и различии выручки абонентов из Москвы и других регионов.</td>
+    <td>Python Pandas Matplotlib NumPy SciPy Описательная статистика Проверка статистических гипотез</td>
   </tr>
     <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/14-data_research_of_airline_company">Data Research of airline company</a></td>
-    <td>Perform uploads and preparation of airline data using SQL, test the hypothesis about the difference in average demand for tickets during different events</td>
-    <td>SQL, Python, Pandas, Matplotlib, SciPy, Statistical hypothesis testing</td>
+    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/14-data_research_of_airline_company">Изучение закономерностей, определяющих успешность игр</a></td>
+    <td>Выявлены параметры, определяющие успешность игры в разных регионах мира. На основании этого подготовлен отчет для магазина компьютерных игр для планирования рекламных кампаний. Проведена предобработка данных, анализ. Выбран актуальный период для анализа. Составлены портреты пользователей каждого региона. Проверены гипотезы: средние пользовательские рейтинги платформ Xbox One и PC одинаковые; средние пользовательские рейтинги жанров Action и Sports разные. При анализе использовал критерий Стьюдента для независимых выборок.</td>
+    <td>Python Pandas NumPy Matplotlib Предобработка данных Исследовательский анализ данных Описательная статистика Проверка статистических гипотез</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/13-classifying-comments">Classifying comments</a></td>
-    <td>Speeded up the moderation of comments by automating their toxicity assessment. Trained the model to classify comments as toxic and non-toxic.</td>
-    <td>Pandas, Python, Machine Learning, NLTK, LightGBM, Sklearn</td>
+    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/13-classifying-comments">Анализ убытков приложения ProcrastinatePRO+</a></td>
+    <td>роведен анализ данных от ProcrastinatePRO+. Рассчитаны различные метрики, использован когортный анализ: LTV, CAC, Retention rate, DAU, WAU, MAU и т.д. Ис</td>
+    <td>Python Pandas Matplotlib Когортный анализ Юнит-экономика Продуктовые метрики Seaborn</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/12-predicting-taxi-trips">Predicting taxi trips</a></td>
-    <td>Trained a Machine Learning model to predict the number of taxi trips for the next hour.</td>
-    <td>Pandas, sklearn, numpy, LightGBM, Matplotlib, StatsModels, CatBoost, Machine Learning</td>
+    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/12-predicting-taxi-trips">Проверка гипотез по увеличению выручки в интернет-магазине — оценить результаты A/B теста</a></td>
+    <td>Проведена приоритизация гипотез по фреймворкам ICE и RICE. Затем провел анализ результатов A/B-теста, построил графики кумулятивной выручки, среднего чека, конверсии по группам, а затем посчитал статистическую значимость различий конверсий и средних чеков по сырым и очищенным данным. На основании анализа мной было принято решение о нецелесообразности дальнейшего проведения теста.</td>
+    <td>Python Pandas Matplotlib SciPy A/B-тестирование Проверка статистических гипотез</td>
   </tr>
   <tr>
     <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/11-car-price-prediction">Car price prediction</a></td>
@@ -103,4 +103,3 @@ The model helped to optimize production in order not to launch a plant with unpr
 </table>
 
 <br>
-<i> Please don't plagiarize any of my projects — it won't help you in the long run!<i>
