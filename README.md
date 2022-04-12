@@ -6,9 +6,8 @@
 Этот репозиторий содержит в себе проекты, которые я выполнил обучаясь на онлайн курсе по специализации "Аналитик данных" от Яндекс.Практикум. Целю данного курса являлась подготовка меня к карьере аналитика данных. Мне помогли обрести навыки по очищению и систематизации данных, выявлению закономерностей и проверке статистических гипотез, изчению  бизнес-показателей и проведению А/В-тестов, а так же автоматизации процессов анализа и составлению предсказаний. Выполнив практические заданя курса и усвоив теоретические знания, я могу четко сообщать важные выводы, с помощью инструментов визуализации и презентации итогов исследования. 
 
 <p align=center>
-<a href="https://disk.yandex.ru/i/XfYnDa2OFllcAQ">Сертификат о завершении курса(русская версия).</a><br>
-  <a href="https://github.com/akylson/yandex-praktikum-data-science-projects/blob/main/yandex_ds_certificate_en.pdf"><b>Сертификат о завершении курса(Русская версия)</b> :mortar_board: </a><br>
-    <a href="https://github.com/akylson/yandex-praktikum-data-science-projects/blob/main/yandex_ds_ru.pdf"><b>Сертификат о завершении курса(Английская версия)</b> :mortar_board: </a>
+  <a href="https://github.com/st9678/Data-Analytics-Projects/blob/main/Yandex_DA_certificate_ru.pdf"><b>Сертификат о завершении курса(Русская версия)</b> :mortar_board: </a><br>
+    <a href="https://github.com/st9678/Data-Analytics-Projects/blob/main/Yandex_DA_certificate_en.pdf"><b>Сертификат о завершении курса(Английская версия)</b> :mortar_board: </a>
 </p><br>
 
 <table width=100% valign=top >
