@@ -4,7 +4,11 @@
 
 Этот репозиторий содержит в себе проекты, которые я выполнил обучаясь на онлайн курсе по специализации "Аналитик данных" от Яндекс.Практикум. Целю данного курса являлась подготовка меня к карьере аналитика данных. Мне помогли обрести навыки по очищению и систематизации данных, выявлению закономерностей и проверке статистических гипотез, изчению  бизнес-показателей и проведению А/В-тестов, а так же автоматизации процессов анализа и составлению предсказаний. Выполнив практические заданя курса и усвоив теоретические знания, я могу четко сообщать важные выводы, с помощью инструментов визуализации и презентации итогов исследования. 
 
-## <a href="https://disk.yandex.ru/i/XfYnDa2OFllcAQ">Сертификат о завершении курса(русская версия).</a>
+<p align=center>
+<a href="https://disk.yandex.ru/i/XfYnDa2OFllcAQ">Сертификат о завершении курса(русская версия).</a><br>
+  <a href="https://github.com/akylson/yandex-praktikum-data-science-projects/blob/main/yandex_ds_certificate_en.pdf"><b>Certificate of completion the course (English version)</b> :mortar_board: </a><br>
+    <a href="https://github.com/akylson/yandex-praktikum-data-science-projects/blob/main/yandex_ds_ru.pdf"><b>Certificate of completion the course (Russian version)</b> :mortar_board: </a>
+</p><br>
 
 <a href="https://praktikum.yandex.ru/"><img width=100% src="https://miro.medium.com/max/1400/0*uVP0WwEWOtpHs40E.png"></a><br><br>
 <p align=center>
