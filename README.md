@@ -12,9 +12,9 @@
 
 <table width=100% valign=top >
   <tr>
-    <td width=25%>Project</td>
-    <td>Description</td>
-    <td width=20%>Used libraries</td>
+    <td width=25%>Название проекта</td>
+    <td>Описание</td>
+    <td width=20%>Навыки и инструмены</td>
   </tr>
         <tr>
     <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/16-steel_temperature">Steel temperature</a></td>
